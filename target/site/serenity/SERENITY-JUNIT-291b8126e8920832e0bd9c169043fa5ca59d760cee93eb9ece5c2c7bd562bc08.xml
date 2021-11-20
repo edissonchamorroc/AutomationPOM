@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registrar nuevo custumer en guru99" skipped="0" tests="1" time="36.01" timestamp="2021-11-20 04:46:38"><testcase name="Despues de logearme"><failure message="expected:&lt;M[anager Id: mgr123]&gt; but was:&lt;M[issing element: By.xpath: //*[text()='Manager Id: mgr123']]&gt;" type="java.lang.AssertionError">expected:&lt;M[anager Id: mgr123]&gt; but was:&lt;M[issing element: By.xpath: //*[text()='Manager Id: mgr123']]&gt;</failure><system-err>expected:&lt;M[anager Id: mgr123]&gt; but was:&lt;M[issing element: By.xpath: //*[text()='Manager Id: mgr123']]&gt;&#13;
+chamorro.edisson.pages.PageManagerGuru.verifyLogin(PageManagerGuru.java:12)&#13;
+chamorro.edisson.stepdefinitions.GuruLoginStepDefinitions.verificoElMensaje(GuruLoginStepDefinitions.java:27)&#13;
+✽.Verifico el mensaje "Manager Id: mgr123"(file:///C:/Users/marce/eclipse-workspace/AutomationPOM/src/test/resources/chamorro/edisson/features/guru_login.feature:12)&#13;
+</system-err></testcase></testsuite>
